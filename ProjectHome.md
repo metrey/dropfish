@@ -1,0 +1,1 @@
+Here, it's where we drop our application design, data model, ER Diagram and other document for education purpose.
